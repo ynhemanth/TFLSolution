@@ -1,0 +1,12 @@
+C:\TFL\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\TFL\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\TFL\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\TFL\Repository\bin\Debug\netstandard2.0\Model.dll
+C:\TFL\Repository\bin\Debug\netstandard2.0\Model.pdb
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.pdb

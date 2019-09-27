@@ -1,0 +1,8 @@
+C:\TFL\Model\bin\Debug\netstandard2.0\Model.deps.json
+C:\TFL\Model\bin\Debug\netstandard2.0\Model.dll
+C:\TFL\Model\bin\Debug\netstandard2.0\Model.pdb
+C:\TFL\Model\obj\Debug\netstandard2.0\Model.csproj.CoreCompileInputs.cache
+C:\TFL\Model\obj\Debug\netstandard2.0\Model.AssemblyInfoInputs.cache
+C:\TFL\Model\obj\Debug\netstandard2.0\Model.AssemblyInfo.cs
+C:\TFL\Model\obj\Debug\netstandard2.0\Model.dll
+C:\TFL\Model\obj\Debug\netstandard2.0\Model.pdb

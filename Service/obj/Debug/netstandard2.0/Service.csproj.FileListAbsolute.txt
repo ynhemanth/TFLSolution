@@ -1,0 +1,14 @@
+C:\TFL\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\TFL\Service\bin\Debug\netstandard2.0\Service.dll
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\TFL\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\TFL\Service\bin\Debug\netstandard2.0\Model.dll
+C:\TFL\Service\bin\Debug\netstandard2.0\Repository.dll
+C:\TFL\Service\bin\Debug\netstandard2.0\Model.pdb
+C:\TFL\Service\bin\Debug\netstandard2.0\Repository.pdb
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.dll
+C:\TFL\Service\obj\Debug\netstandard2.0\Service.pdb
