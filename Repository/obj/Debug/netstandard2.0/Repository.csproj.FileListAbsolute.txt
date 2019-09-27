@@ -10,3 +10,15 @@ C:\TFL\Repository\bin\Debug\netstandard2.0\Model.pdb
 C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
 C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.dll
 C:\TFL\Repository\obj\Debug\netstandard2.0\Repository.pdb
+C:\TFLSolution\Repository\bin\Debug\netstandard2.0\Repository.deps.json
+C:\TFLSolution\Repository\bin\Debug\netstandard2.0\Repository.dll
+C:\TFLSolution\Repository\bin\Debug\netstandard2.0\Repository.pdb
+C:\TFLSolution\Repository\bin\Debug\netstandard2.0\Model.dll
+C:\TFLSolution\Repository\bin\Debug\netstandard2.0\Model.pdb
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.csprojAssemblyReference.cache
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.csproj.CoreCompileInputs.cache
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfoInputs.cache
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.AssemblyInfo.cs
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.csproj.CopyComplete
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.dll
+C:\TFLSolution\Repository\obj\Debug\netstandard2.0\Repository.pdb

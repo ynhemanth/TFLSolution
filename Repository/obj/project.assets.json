@@ -333,11 +333,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFL\\Repository\\Repository.csproj",
+      "projectUniqueName": "C:\\TFLSolution\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\TFL\\Repository\\Repository.csproj",
+      "projectPath": "C:\\TFLSolution\\Repository\\Repository.csproj",
       "packagesPath": "C:\\Users\\ynhem\\.nuget\\packages\\",
-      "outputPath": "C:\\TFL\\Repository\\obj\\",
+      "outputPath": "C:\\TFLSolution\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -356,8 +356,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\TFL\\Model\\Model.csproj": {
-              "projectPath": "C:\\TFL\\Model\\Model.csproj"
+            "C:\\TFLSolution\\Model\\Model.csproj": {
+              "projectPath": "C:\\TFLSolution\\Model\\Model.csproj"
             }
           }
         }

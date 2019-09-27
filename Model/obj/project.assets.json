@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFL\\Model\\Model.csproj",
+      "projectUniqueName": "C:\\TFLSolution\\Model\\Model.csproj",
       "projectName": "Model",
-      "projectPath": "C:\\TFL\\Model\\Model.csproj",
+      "projectPath": "C:\\TFLSolution\\Model\\Model.csproj",
       "packagesPath": "C:\\Users\\ynhem\\.nuget\\packages\\",
-      "outputPath": "C:\\TFL\\Model\\obj\\",
+      "outputPath": "C:\\TFLSolution\\Model\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

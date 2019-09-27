@@ -4567,11 +4567,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\TFL\\TFLTestProject\\TFLTestProject.csproj",
+      "projectUniqueName": "C:\\TFLSolution\\TFLTestProject\\TFLTestProject.csproj",
       "projectName": "TFLTestProject",
-      "projectPath": "C:\\TFL\\TFLTestProject\\TFLTestProject.csproj",
+      "projectPath": "C:\\TFLSolution\\TFLTestProject\\TFLTestProject.csproj",
       "packagesPath": "C:\\Users\\ynhem\\.nuget\\packages\\",
-      "outputPath": "C:\\TFL\\TFLTestProject\\obj\\",
+      "outputPath": "C:\\TFLSolution\\TFLTestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -4590,17 +4590,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\TFL\\Model\\Model.csproj": {
-              "projectPath": "C:\\TFL\\Model\\Model.csproj"
+            "C:\\TFLSolution\\Model\\Model.csproj": {
+              "projectPath": "C:\\TFLSolution\\Model\\Model.csproj"
             },
-            "C:\\TFL\\Presentation\\Presentation.csproj": {
-              "projectPath": "C:\\TFL\\Presentation\\Presentation.csproj"
+            "C:\\TFLSolution\\Presentation\\Presentation.csproj": {
+              "projectPath": "C:\\TFLSolution\\Presentation\\Presentation.csproj"
             },
-            "C:\\TFL\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\TFL\\Repository\\Repository.csproj"
+            "C:\\TFLSolution\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\TFLSolution\\Repository\\Repository.csproj"
             },
-            "C:\\TFL\\Service\\Service.csproj": {
-              "projectPath": "C:\\TFL\\Service\\Service.csproj"
+            "C:\\TFLSolution\\Service\\Service.csproj": {
+              "projectPath": "C:\\TFLSolution\\Service\\Service.csproj"
             }
           }
         }

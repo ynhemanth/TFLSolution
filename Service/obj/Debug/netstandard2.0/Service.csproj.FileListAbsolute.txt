@@ -12,3 +12,17 @@ C:\TFL\Service\bin\Debug\netstandard2.0\Repository.pdb
 C:\TFL\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
 C:\TFL\Service\obj\Debug\netstandard2.0\Service.dll
 C:\TFL\Service\obj\Debug\netstandard2.0\Service.pdb
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Service.deps.json
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Service.dll
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Service.pdb
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Model.dll
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Repository.dll
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Model.pdb
+C:\TFLSolution\Service\bin\Debug\netstandard2.0\Repository.pdb
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.csprojAssemblyReference.cache
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.csproj.CoreCompileInputs.cache
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.AssemblyInfoInputs.cache
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.AssemblyInfo.cs
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.csproj.CopyComplete
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.dll
+C:\TFLSolution\Service\obj\Debug\netstandard2.0\Service.pdb
